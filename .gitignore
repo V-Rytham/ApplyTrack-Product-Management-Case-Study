@@ -1,0 +1,9 @@
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
