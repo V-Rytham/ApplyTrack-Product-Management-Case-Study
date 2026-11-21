@@ -1,15 +1,10 @@
-# ApplyTrack — Product Management Case Study
-
-**Project type:** Independent product-management case study  
-**Product concept:** ApplyTrack — a job-application tracking tool  
-**Status:** Concept and planning exercise  
-**Prepared:** November 2026  
+# ApplyTrack : A Product Management Case Study
 
 ---
 
 ## Why I worked on this case study
 
-I recently completed four introductory Product Management courses on Coursera over approximately one week.
+I recently completed four introductory Product Management courses on Coursera over approximately two months.
 
 The coursework helped me understand how product decisions connect customer needs, business goals, and engineering execution. I learned about the end-to-end product lifecycle, stakeholder collaboration, market and competitive research, feature prioritization, roadmapping, and planning delivery and launch activities.
 
@@ -24,11 +19,11 @@ I wanted to take what I learned and apply it to a practical use case rather than
 
 ## How I arrived at ApplyTrack
 
-To bridge theory and practice after completing the coursework, I explored ideas for an end-to-end case study and selected **ApplyTrack**, a job-application tracking concept.
+I asked GPT how I could apply the product-management concepts to a practical use case. It suggested creating a product case study. I then explored a few possible ideas and selected ApplyTrack, a job-application tracking concept.
 
 The choice came directly from a problem I experienced myself while applying to multiple companies across job boards, company career pages, and referral channels. After submitting dozens of applications, it quickly becomes difficult to track where you applied, which resume version was submitted, what the latest status is, and when to follow up.
 
-I noticed that I was losing track of application timelines. Discussing this with peers confirmed that students and early-career job seekers often face the same friction, relying on fragmented tools like spreadsheets, emails, and sticky notes.
+I noticed that I was losing track of application timelines. Discussing this with peers confirmed that internships & job seekers often face the same friction, relying on fragmented tools like spreadsheets, emails, and sticky notes.
 
 ### Key Problem Areas
 
@@ -65,11 +60,3 @@ These platforms provided reference points for understanding existing feature set
 ### Community & Qualitative Input
 
 Qualitative insights were drawn from discussions across developer and job-seeking communities (such as Reddit's r/jobs and r/cscareerquestions) alongside informal conversations with peers to understand recurring application management challenges.
-
-## Project Scope & Objectives
-
-This repository serves as a portfolio piece demonstrating end-to-end product thinking: identifying a real user problem, evaluating competitive alternatives, defining an MVP, establishing measurable KPIs, and aligning cross-functional teams with roadmaps and RACI frameworks.
-
----
-
-*Prepared as an independent product-management portfolio case study.*
