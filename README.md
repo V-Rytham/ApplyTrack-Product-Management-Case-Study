@@ -4,7 +4,7 @@
 
 ## Why I worked on this case study
 
-I recently completed four introductory Product Management courses on Coursera over approximately two months.
+I recently completed three introductory Product Management courses on Coursera over approximately two months.
 
 The coursework helped me understand how product decisions connect customer needs, business goals, and engineering execution. I learned about the end-to-end product lifecycle, stakeholder collaboration, market and competitive research, feature prioritization, roadmapping, and planning delivery and launch activities.
 
@@ -12,6 +12,7 @@ The coursework helped me understand how product decisions connect customer needs
 
 1. [Product Management: An Introduction](https://www.coursera.org/learn/product-management-an-introduction)
 2. [Product Management: Foundations & Stakeholder Collaboration](https://www.coursera.org/learn/product-management-foundations-and-stakeholder-collaboration)
+3. [Product Management: Initial Product Strategy and Plan](https://www.coursera.org/learn/product-management-initial-product-strategy-and-plan)
 
 I wanted to take what I learned and apply it to a practical use case rather than leaving it at course notes and quizzes.
 
